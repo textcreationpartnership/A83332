@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance or declaration of the Lords and Commons assembled in Parliament, for the encouragement of adventurers to make new subscriptions for townes, cities, and lands in Ireland. Having taken into their serious consideration the sad condition of that realm, and of what ill consequence the losse of that kingdome would be to this both in respect of religion and otherwise. Die Veneris. 14 Julii. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance or declaration shall be forthwith printed and published. I Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83332</idno>
+            <idno type="STC">Wing E2114</idno>
+            <idno type="STC">Thomason E60_15</idno>
+            <idno type="EEBO-CITATION">99859281</idno>
+            <idno type="PROQUEST">99859281</idno>
+            <idno type="VID">155328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance or declaration of the Lords and Commons assembled in Parliament, for the encouragement of adventurers to make new subscriptions for townes, cities, and lands in Ireland. Having taken into their serious consideration the sad condition of that realm, and of what ill consequence the losse of that kingdome would be to this both in respect of religion and otherwise. Die Veneris. 14 Julii. 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance or declaration shall be forthwith printed and published. I Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July. 15. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land grants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155328:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>AN ORDINANCE OR DECLARATION OF THE LORDS and COMMONS Aſſembled in Parliament, For the encouragement of Adventu<g ref="char:EOLhyphen"/>rers to make new ſubſcriptions for Townes, Cities, and Lands in <hi>Ireland.</hi>
+            </p>
+            <p>Having taken into their ſerious conſideration the ſad condition of that Realm, and of what ill conſequence the loſſe of that Kingdome would be to this both in reſpect of Religion and otherwiſe.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris. 14 Julii. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Aſſembled in Parliament, that this Ordinance or Declaration ſhall be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>I Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> in the Old-baily, July. 15. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155328:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:155328:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>An Ordinance or Declaration of the Lords and Commons aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament having taken in<g ref="char:EOLhyphen"/>to their ſerious Conſideration the ſad condition of the Realm of <hi>Ireland,</hi> and of what ill conſequence the loſſe of that Kingdome would be to this, both in reſpect of Religion and otherwiſe; have lately by their Declaration of the ſixtéene of <hi>Iune</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty thrée, in particulars ſet forth and declared unto the world the extreame wants and neceſſities thereof; And finding many wel-affected perſons both Adventu<g ref="char:EOLhyphen"/>rers for Lands in <hi>Ireland,</hi> and others, very ready and willing to apply themſelves by all good meanes for to bring that great good worke unto perfection. And foraſmuch as the ſubſcriptions upon the ſeverall acts of Parliament heretofore made this Seſſion doe not in<g ref="char:EOLhyphen"/>gage a third part of the Land deſigned to be applied to that worke by thoſe Acts, and the times in them limi<g ref="char:EOLhyphen"/>ted for under-writing being elapſed, and to make up what was wanting in the former ſubſcriptions, as for to raiſe conſiderable ſummes of money for main<g ref="char:EOLhyphen"/>tenance of the Armies there on foote, and reliefe of
+<pb n="2" facs="tcp:155328:3"/>
+               <!-- PDF PAGE 24 -->the poore diſtreſſed Proteſtants there, the reducing of thoſe Rebels to their obedience and ſetling of the ſtate of that Government in peace againe, Have now Or<g ref="char:EOLhyphen"/>dained and declared, That whatſoever perſon and perſons, Corporations, and Bodyes Politique, which at any time or times heretofore have ſubſcribed, and p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yd in any ſumme or ſummes of mony, for an Adven<g ref="char:EOLhyphen"/>ture of Lands of the ſaid rebels Lands in <hi>Ireland</hi> for<g ref="char:EOLhyphen"/>feited and to be forfeited, and confiſcate, according to all and every, or any the Act and Acts of Parliament as aforeſaid, therefore made and enacted upon the late Or<g ref="char:EOLhyphen"/>dinance of Parliament of the thirtieth of <hi>Ianuary,</hi> one thouſand ſix hundred forty two, made for new loanes and contributions, for the reliefe of <hi>Ireland,</hi> And that ſhall now againe ſubſcribe and pay in to Mr. <hi>Iames Bunce,</hi> Mr. <hi>Thomas Foote,</hi> Mr. <hi>Iohn Kendricke,</hi> of <hi>London</hi> Aldermen, and to <hi>Samuel Avery</hi> Eſquire, Trea<g ref="char:EOLhyphen"/>ſurers appointed for that ſervice, or their Aſſignes, ſo much money as ſhall amount unto a full fourth part of ſuch ſumme and ſummes of money, as they or any of them have formerly ſubſcribed and paid in upon any the ſaid former Acts and Ordinance, in manner and forme following, <hi>viz.</hi> One third part thereof within ten daies next after they ſhall ſo ſubſcribe, the ſaid fourth part one other third part within one moneth then next enſu<g ref="char:EOLhyphen"/>ing, and the other third part thereof within two moneths then next and immediately following, ſo as the whole adventure is to be payd in within thrée moneths; And the ſaid ſumme or ſummes of money now to be thus un<g ref="char:EOLhyphen"/>derwritten and paid in to the Treaſurers aforeſaid, as aforeſaid, being added to and reckoned up together with the ſaid ſumme and ſummes of money which they have ſo formerly underwritten and paid in upon the ſaid Acts
+<pb n="3" facs="tcp:155328:3"/>
+               <!-- PDF PAGE 24 -->and Ordinance or upon both or either of them ſhall have a double proportion of Lands for the whole, twice ſo much Land as he or they were formerly to have had, by and according to the ſaid Acts or Ordinance, and Iriſh meaſure, <hi>viz.</hi> every Acre thereof to conſiſt of eight ſcore Pearches or Poles, and every Pearch or Pole to conſiſt of one and twenty foote; And under the ſame rents and ſervices, conditions, limitations and proviſions, and in as large and b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficiall manner and forme, to all intents and purpoſes whatſoever, as in and by the ſaid Acts of Parliament and Ordinance aforeſaid is limitted and expreſſed; And the Acquittance and Acquittances under the hands of the ſaid treaſurers, or any two of them, ſhall be ſufficient and effectuall to enable the ſaid ſub<g ref="char:EOLhyphen"/>ſcribers, and every of them, their heires or aſſignes, to demand, have, and enjoy, the full fruit and benefit of their ſaid ſubſcriptions, and ſhall be a good and ſufficient diſcharge for the receipt of all and every ſuch other payments, ſumme and ſummes of money, as ſhall be made and brought in by and upon any other Propoſiti<g ref="char:EOLhyphen"/>ons, wayes, or meanes, for the reliefe or maintenance of the ſaid Army.</p>
+            <p>And if any ſuch perſon or perſons, Corporations, or bodies politique, who have thus formerly adventured, for Lands in <hi>Ireland,</hi> and ſhall underwrite, and pay in any more or other ſumme or ſummes of money then the fourth part of his former adventure ſhall amount unto; or if any other perſon or perſons as well of the Eng<g ref="char:EOLhyphen"/>liſh, Scottiſh, or Dutch Nation, under the government of the Lords and States of the united Provinces, that ſhall now <hi>de novo</hi> ſubſcribe and pay in any ſumme or ſummes of money, for Lands, of the Rebels Lands, for<g ref="char:EOLhyphen"/>feited and to be forfeited as aforeſaid, ſhall have a like
+<pb n="4" facs="tcp:155328:4"/>
+               <!-- PDF PAGE 25 -->double proportion of Lands for the ſame, to be aſſigned and ſet out unto him and them in manner and forme in all things, as the Adventurers aforeſaid, in the immediate foregoing Propoſition are to have theirs.</p>
+            <p>And the ſaid Lords and Commons, for the further content and ſatisfaction of the ſaid Adventurers, have alſo ordained and declared, and doe hereby ordaine and declate, That an Act and Acts of Parliament ſhall here<g ref="char:EOLhyphen"/>after paſſe both in <hi>England</hi> and <hi>Ireland,</hi> to make all the Lands and Tenements of the ſaid Rebels forfeited and to be forfeited, as aforeſaid, or wherein they or their Anceſtors, by themſelves, their Tenants, and Aſſignes, have been in the actuall ſeiſin and poſſeſſion, as the very Freeholders and Inheritors, or reputed Freeholders and Inheritors thereof, for the ſpace of ſixty yeers before this Rebellion brake out there, being upon the three and twentieth of October, one thouſand ſix hundred fourty one, alike liable to the Subſcriptions and Plantations of the ſaid Adventurers in every of the four Provinces, of <hi>Leinſter, Munſter, Ulſter,</hi> and <hi>Connaught</hi> reſpective<g ref="char:EOLhyphen"/>ly without exception, and to bar His Majeſtie, His Heirs and Succeſſors, from all Right, Title, Claim, and Demand whatſoever, of and into the ſame, any Pardon or Pardons granted or to be granted to the ſaid Rebels; or any of them, either before or after Con<g ref="char:EOLhyphen"/>viction or Attainder in any manner or ſort whatſoever to the contrary in any wiſe notwithſtanding.</p>
+            <p>And to give incouragement unto thoſe who are Mer<g ref="char:EOLhyphen"/>chants and live on Trades, for to adventure conſider<g ref="char:EOLhyphen"/>able ſums of Money for Houſes and Lands of the Re<g ref="char:EOLhyphen"/>bels forfeited and to be forfeited there; and for to in<g ref="char:EOLhyphen"/>troduce a better Trade and Manufacture of the native Commodities of that Kingdome, when, by the bleſſing of
+<pb n="5" facs="tcp:155328:4"/>
+               <!-- PDF PAGE 25 -->God, that War ſhall come to be ended, and for the better propagation of Religion, and aboliſhing of Po<g ref="char:EOLhyphen"/>pery and Superſtition out of that Land, and civilizing of that Kingdom, the ſaid Lords and Commons have ſet out the City and Corporation of <hi>Lim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rick,</hi> with the Iſland of <hi>Eniſhcattery,</hi> and the Fiſhings of the River there, and twelve thouſand Acres of confiſcated and pro<g ref="char:EOLhyphen"/>fitable lands, medow and paſture, lying next contigu<g ref="char:EOLhyphen"/>ous and adjacent to the ſaid City round about, lying and being in the Province of <hi>Munſter,</hi> with Woods, Bogs and barren mountains caſt in to bee hereafter granted and conveyed to ſuch Perſon and Perſons as aforeſaid, their Heirs and Aſſignes, as ſhall now ad<g ref="char:EOLhyphen"/>venture and diſburſe money for the ſame at the rate and valuation hereafter mentioned, <hi>viz.</hi> That ſhall diſburſe the ſum of thirty thouſand pounds currant money of <hi>England</hi> for the ſame, and paying the ſum of ſix hun<g ref="char:EOLhyphen"/>dred and twenty five pounds yeerly rent to the Crown: And have ordained and ſet out the City and Corpora<g ref="char:EOLhyphen"/>tion of <hi>Waterford,</hi> l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and being in the ſaid Pro<g ref="char:EOLhyphen"/>vince of <hi>Munſter,</hi> with fifteene thouſand Actes of like forfeited and profitable lands, medow and paſture, Bogs, Woods, and barren mountains to be likewiſe caſt in, and lying contiguous and adjacent to the ſaid City, to be hereafter granted and conveyed to ſuch per<g ref="char:EOLhyphen"/>ſon and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſons as aforeſaid, their Heirs and Aſſigns, as ſhall now adventure and diſburſe the ſum of thirty thouſand pounds, and pay the like yeerely rent of ſixe hundred and twenty five pounds unto the Crown for the ſame. And have ordained and ſet out the Towne and Corporation of <hi>Galloway,</hi> lying and being in the Province of <hi>Connaught,</hi> with ten thouſand Actes of
+<pb n="6" facs="tcp:155328:5"/>
+               <!-- PDF PAGE 26 -->like forfeited profitable land, medow and paſture, with woods, Bogs, and barren mountains, to be caſt in and to lie contiguous and adjacent to the ſaid Towne and Corporation, to be in like manner granted and convey<g ref="char:EOLhyphen"/>ed to ſuch perſon and perſons as aforeſaid, their Heires and Aſſigns, as ſhall now adventure &amp; diſburſe the ſum of twenty five thouſand pounds for the ſame, &amp; pay the yeerely rent of five hundred and twenty pounds to the Crown for the ſame. And have ordained and ſet out the Town and Corporation of <hi>Wexford,</hi> lying and being in the Province of <hi>Leinſter,</hi> with ſix thouſand Actes of like eſcheated profitable lands, medow and paſture, with woods, bogs, and barren mountains, to be caſt in and to lie adjacent and contiguous to the ſaid Towne and Corporation, and to be likewiſe granted to ſuch perſon and perſons as aforeſaid, their Heirs and Aſſignes, as ſhall now adventure and diſburſe the ſumme of ſeven thouſand five hundred pounds for the ſame, and pay the yeerly rent and fee-farme of one hundred fifty ſixe pounds foure ſhillings and foure pence to the Crowne for the ſame, and all and every the ſame reſpectively to be holden of his Majeſtie in free and common Soc<g ref="char:EOLhyphen"/>cage, as of his Caſtle of <hi>Dublyn</hi> in the ſaid Realm, and and every of them to be incorporated again <hi>de novo,</hi> and to have ſuch Liberties, Freedomes, and Immunities granted unto them, and every of them reſpectively, as are now granted to the City of <hi>Briſtol</hi> in this Realm by any Charter and Charters whatſoever, and ſuch other Priviledges and Immunities as be contained and in<g ref="char:EOLhyphen"/>tended to the ſaid Adventurers for Lands in <hi>Ireland,</hi> in the Acts of Parliament aforeſaid, for ſubſcriptions for Lands in that Realm.</p>
+            <pb n="7" facs="tcp:155328:5"/>
+            <!-- PDF PAGE 26 -->
+            <p>And it is further Ordained and Declared by Authority aforeſaid, That in caſe the reſpective ſums whereat the ſaid Cities, Townes, Lands, and premiſes laſt mentioned aforeſaid, are reſpectively valued and apprized, ſhall not be wholly under-written for, yet then and in ſuch caſe all and every ſuch under-writer and under-writers, as ſhall ſubſcribe any ſum or ſums of money, for to have any part or parcell thereof, ſhall have granted and conveied unto him, his heires, and Aſſignes, ſuch and ſo much in pro<g ref="char:EOLhyphen"/>portion thereof, as his and their Adventure and Adven<g ref="char:EOLhyphen"/>tures ſhall ſeverally and reſpectively amount unto, accor<g ref="char:EOLhyphen"/>ding to the ſaid reſpective valuations to be ſet out unto him and them, by indifferent Commiſſioners by the Lords and Commons, to be therefore, hereafter named &amp; appoynted.</p>
+            <p>And the ſaid Lords and Commons doe further Ordaine &amp; Declare, for a more cleere and full Plantation of the ſaid Cities, Townes, and Corporations, That all Chantry Lands, &amp; Lands, and Tenements, given unto ſuperſtitious uſes, for maintenance of Popiſh Prieſts, and Idolatrous Maſſes, Drentalls, Diriges, and the like; And all Lands and Tenements given for maintenance of Lazors, and Lazarous people, and concealed in poſſeſſion and Occu<g ref="char:EOLhyphen"/>pation of ſuch who are now or hereafter ſhall be Rebels, &amp; have beene by their Anceſtors enjoyed by many deſcents, and which ſhall not become forfeited by this Rebellion, ſhall be caſt into the Purchaſe and Purchaſes of the ſaid Cities and Townes reſpectively as parcell thereof, &amp; ſhall by Act &amp; Acts of Parliament hereafter to paſſe in <hi>England</hi> &amp; <hi>Ireland,</hi> be made as ſubject &amp; lyable to the ſaid Planta<g ref="char:EOLhyphen"/>tion; And for ſatisfying of the ſaid Adventurers, their ſub<g ref="char:EOLhyphen"/>ſcriptions as any other the ſaid Rebells Lands forfeited and to be forfeited and Confiſcate therein whatſoever, And al the Adventurers Eſtates in whatſoever their Ad<g ref="char:EOLhyphen"/>ventures
+<pb n="8" facs="tcp:155328:6"/>
+               <!-- PDF PAGE 27 -->for Lands &amp; Tenements herein formerly ment<g ref="char:EOLhyphen"/>ioned, ſhalbe in like manner hereafter ſecured unto them &amp; confirmed by Act and Acts of Parliament, to paſſe both in <hi>England</hi> and <hi>Ireland,</hi> for the ſame end and purpoſe as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p>And it is further Ordained and Declared, by authority aforeſaid, That all and every ſuch perſon &amp; perſons as a<g ref="char:EOLhyphen"/>foreſaid, who have or ſhall under-write any ſum or ſums of money upon the ſaid Propoſitions for any the Cities, Townes and Corporations aforeſaid and have formerly adventured &amp; ſubſcribed, or ſhall underwrite and ſubſcribe for Lands in the Kingdome at large, ſhalbe accommoda<g ref="char:EOLhyphen"/>ted to have all his ſaid Lands, ſet out unto him as neere unto thoſe Cities, Townes and Corporations aforeſaid, for which he ſhall ſo ſubſcribe, as may be provided alwayes, that no perſon or perſons ſhalbe admitted to ſubſcribe up<g ref="char:EOLhyphen"/>on, or for any of the ſaid Cities, Townes and Corpo<g ref="char:EOLhyphen"/>rations, for a ſmaller ſum then Twenty Pounds.</p>
+            <p>And it is further Ordained and Declared by Authority aforeſaid, that all and every Officers and Commanders, in all or any the Brittiſh Armies in <hi>Ireland,</hi> that ſhall and doe continue in the ſaid Service, and within ſix moneths next after the day of the date of this Ordinance, ſhall ſub<g ref="char:EOLhyphen"/>ſcribe al or any part of ſuch ſum and ſums of mony, as now is, or ſhall grow due and owing unto him and them, or any of them, for his and their pay and entertainment, the ſame ſubſcriptions to be either taken and received, here in ſuch way as is formerly directed for other Adventurers, or by and before the ſeverall Committee and Committees to be hereafter choſen &amp; imployed by the Houſe of Commons, and this Committee into the ſeverall Provinces of that Kingdome, for the better managing of that War, the ſame ſubſcriptions to be taken &amp; Recorded, by them the ſaid
+<pb n="9" facs="tcp:155328:6"/>
+               <!-- PDF PAGE 27 -->Committees reſpectively in their reſpective Provinces into which they ſhall be ſent and imployed, to be afterwards returned by both Houſes of Parliament, ſhall have and injoy ſuch proportion &amp; proportions of Lands or of Cities, Townes &amp; Corporations, for the ſum and ſums of money to be ſubſcribed, and in manner and forme in all things as other the Adventurers herein aforeſaid, are for to have theirs granted and ſet out unto them by and according to the limitation of this preſent Ordinance.</p>
+            <p>And the ſaid Lords and Commons doe further Ordaine and Declare, that it ſhall and may be lawfull, to, and for the ſaid Adventurers, and every of t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em, now at the time of their ſubſcri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing for Lands againe as afore<g ref="char:EOLhyphen"/>ſaid, or within one moneth afterwards, to make his and their reſpective choice and Election, in which of the foure Provinces aforeſaid, he or they deſire to have, his and their Adventure and Adventures of Lands to lye, And the ſaid Treaſurers receiving the ſame, declared under his &amp; their hand &amp; hands in writing in a Book as a Record thereof for that purpoſe to be kept, ſhall have the ſame ſet out unto him and them, his and their heires and Aſſignes, in ſuch Pro<g ref="char:EOLhyphen"/>vince accordingly if it may be: Provided that ſuch choice and ſetting forth as aforeſaid do not prejudice the firſt Ad<g ref="char:EOLhyphen"/>ventures, whoſe lots ſhall fall in any of thoſe Provinces.</p>
+            <p>And it is further Ordained and Declared by Authority aforeſaid, that all and every ſuch Monies, Wares, Goods, Commodities, Armes, or Ammunition, which either now are, or which at any time hereafter ſhall be, either lent or given by the Engliſh or Dutch Proteſtant Churches, and Claſſes in <hi>Holland, Zealand,</hi> and other parts and places beyond the Seas, to whom this buſineſſe and affaire for the Reliefe of <hi>Ireland</hi> hath beene already or ſhall hereafter be recommended, ſhall be brought into the Treaſury afore<g ref="char:EOLhyphen"/>ſaid,
+<pb n="10" facs="tcp:155328:7"/>
+               <!-- PDF PAGE 28 -->or otherwiſe be ordered and diſpoſed of by the ſaid Committee for the ſervice aforeſaid, in manner and ſort as other the monie by them to be received, is herein declared and appoynted to be imployed.</p>
+            <p>And it is further Ordained and Declared by Authoritie aforeſaid that the Committee of the Houſe of Commons and Adventurers in <hi>London</hi> aforeſaid, or any eight or more of them, ſhall and may by ſuch Agents and Miniſters as they ſhall therefore intruſt and imploy, to Communicate this Affaire into whatſoever other parts &amp; places of this Kingdome, as they ſhall think fit for taking ſubſcriptions &amp; receiving of money according to the ſeverall propoſitions aforeſaid &amp; according to all and every ſuch other propoſiti<g ref="char:EOLhyphen"/>ons as for the ſervice aforeſaid, ſhal hereafter by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, be made and Ordained; and that the ſaid Committee, or any eight or more of them ſhal &amp; may re<g ref="char:EOLhyphen"/>ward with fit rewards &amp; ſalaries, all ſuch as they ſhal &amp; do thus imploy, for the better proceeding in &amp; carrying on the ſaid worke, &amp; to make, doe &amp; perform, whatſoever other matters &amp; things ſhall conduce and be neceſſary for the bet<g ref="char:EOLhyphen"/>ter proceeding of the buſineſſe as they the ſaid Committee or any eight or more of them ſhall from tune to time order &amp; appoynt being always ready to give an accompt of their proceedings to both Houſes of Parliament, when they ſhall be thereunto required.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
